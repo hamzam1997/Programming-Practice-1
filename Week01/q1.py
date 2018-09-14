@@ -1,4 +1,3 @@
-#Problem 1
 condition = "y"
 strings = [];
 while (condition == "y"):
@@ -19,8 +18,6 @@ for i in strings:
     print("* " + i + (len(asterisks) - len(i)-4)*" "+"*")
 print(asterisks)
 
-
-#Problem 2
 
     
         
